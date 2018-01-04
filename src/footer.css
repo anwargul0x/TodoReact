@@ -1,0 +1,22 @@
+footer{
+    background-color: #010316ec;
+    text-align: center;
+    width:99%;
+    padding: 1.7em 0em;
+    position:absolute;
+    bottom:0.27em;
+    left:0.5%;
+    border-radius:0.21em;
+    -webkit-box-shadow: 3px 4px 7px 3px #464861a2;
+    box-shadow: 3px 4px 7px 3px #353748;
+} 
+
+.foot-title{
+    font-family: 'Fira Sans',Helvetica;
+    font-style:italic;
+    display:inline;
+    color:#efefef;
+}
+.inc{
+    font-size:0.7em;
+}

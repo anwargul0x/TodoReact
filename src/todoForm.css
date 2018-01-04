@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,800i');
+
+form {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: 1% 0%;
+}
+.form-section input {
+    width: 77%;
+    font-size: 22px;
+    padding: 0.5em;
+    border-radius: 0.17rem;
+    border: 1px solid #272727a8;
+    -webkit-box-shadow: 2px 6px 10px #2c2b2ba2;
+    box-shadow: 2px 6px 10px #2c2b2ba2;
+}
+
+.form-section button {
+    margin-left: 1rem;
+    width: 15%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    border-radius: 0.17rem;
+    border: none;
+    background-color: #00cc90;
+    color: #ffffff;
+    border-bottom: 3px solid #063023be;
+    -webkit-box-shadow: 2px 6px 10px #2c2b2ba2;
+    box-shadow: 2px 6px 10px #2c2b2ba2;
+}
+hr {
+    width: 100%;
+    margin-top: 1.7rem;
+}
+
+.sub-title{
+    font-size:0.44em;
+    font-family: 'Fira Sans',Arial;
+    color:#7abacee1;
+}
